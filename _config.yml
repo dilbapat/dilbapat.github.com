@@ -3,7 +3,7 @@ server: true
 pygments: true
 permalink: none
 baseurl: ""
-oauth_client_id: f3d2cd1c0fadb533af22
+oauth_client_id: 7c31b6056df260097281
 gatekeeper_url: http://localhost:9999
 exclude:
 - .gitignore
